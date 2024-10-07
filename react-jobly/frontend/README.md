@@ -29,11 +29,6 @@ API Communication: Axios for HTTP requests
 Deployment: Render for both backend and frontend
 Installation
 Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/jobly-frontend.git
-cd jobly-frontend
 Install Dependencies:
 
 bash
